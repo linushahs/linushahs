@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @linushahs
 - 👀 I’m interested in full stack web development.
-- 🌱 I’m currently learning React/Node/Express
+- 🌱 I’m currently learning Next.js/React-Query/Headless UI
 - 💞️ I’m looking to collaborate on GitHub Communities
 - 📫 How to reach me (_Gmail_: suniltraveler2004@gmail.com, 
                        _insta_: sunn_traveler, 
