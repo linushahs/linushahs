@@ -6,7 +6,7 @@ Frontend Developer
 
 *   🌍  I'm based in Nepal
 *   ✉️  You can contact me at [suniltraveler2004@gmail.com](mailto:suniltraveler2004@gmail.com)
-*   🚀  I'm currently working on [InternSathi](http://internsathi.com)
+*   🚀  I'm currently working on Kalodhunga Creations.
 *   🧠  I'm learning Next.js, Typescript, GraphQL
 *   🤝  I'm open to collaborating on frontend tools & resources
 
