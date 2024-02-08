@@ -4,7 +4,7 @@ Hi 👋 My name is Linus Hahs
 Frontend Developer
 ------------------
 
-*   🌍  I'm based in Nepal
+*   🌍  I'm based in Kathmandu, Nepal
 *   ✉️  You can contact me at [suniltraveler2004@gmail.com](mailto:suniltraveler2004@gmail.com)
 *   🚀  I'm currently working on Kalodhunga Creations.
 *   🧠  I'm learning Next.js, Typescript, GraphQL
