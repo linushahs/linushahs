@@ -5,8 +5,8 @@ Frontend Developer
 ------------------
 
 *   🌍  I'm based in Kathmandu, Nepal
-*   ✉️  You can contact me at [suniltraveler2004@gmail.com](mailto:suniltraveler2004@gmail.com)
-*   🚀  I'm currently working on Kalodhunga Creations.
+*   ✉️  You can connect with me at [LinkedIn](https://www.linkedin.com/in/linushahs/)
+*   🚀  I'm currently working as Mid-level React developer.
 *   🧠  I'm learning Next.js, Typescript, GraphQL
 *   🤝  I'm open to collaborating on frontend tools & resources
 
